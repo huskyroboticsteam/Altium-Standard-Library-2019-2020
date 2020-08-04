@@ -599,6 +599,40 @@ GenerateClassCluster=0
 DocumentUniqueId=IVIUTJEW
 
 [Document34]
+DocumentPath=..\..\..\..\..\Christian\Documents\AltiumLL\CAP_SMD_CAN.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=NGLTGAHM
+
+[Document35]
+DocumentPath=..\..\..\..\..\Christian\Documents\AltiumLL\CAP_SMD_CAN.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=MPRJBCLL
+
+[Document36]
 DocumentPath=Components\Passive Components\Standard LED.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -615,7 +649,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=OJOTBJNG
 
-[Document35]
+[Document37]
 DocumentPath=Components\ICs\IMU IC Breakouts 2020.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -632,7 +666,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=KKRFNLFT
 
-[Document36]
+[Document38]
 DocumentPath=Components\ICs\IMU IC Breakouts 2020.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
