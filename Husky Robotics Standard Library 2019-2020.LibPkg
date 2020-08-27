@@ -446,40 +446,6 @@ GenerateClassCluster=0
 DocumentUniqueId=FQUNGYIW
 
 [Document25]
-DocumentPath=Components\ICs\LED ADAI-WS2812B_V.PcbLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=MVPBOLNK
-
-[Document26]
-DocumentPath=Components\ICs\LED ADAI-WS2812B-4.SchLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=MAWLZELS
-
-[Document27]
 DocumentPath=Components\Misc\Screw Hole.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -496,7 +462,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=QLQDTIYW
 
-[Document28]
+[Document26]
 DocumentPath=Components\Misc\Screw Hole.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -513,7 +479,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=UKFCDSVH
 
-[Document29]
+[Document27]
 DocumentPath=Components\Connectors\Headers.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -530,7 +496,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=LXGDTVQJ
 
-[Document30]
+[Document28]
 DocumentPath=Components\Connectors\Headers.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -547,7 +513,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=CFIYGNJM
 
-[Document31]
+[Document29]
 DocumentPath=Components\Passive Components\Standard Cap.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -564,7 +530,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document32]
+[Document30]
 DocumentPath=Components\Passive Components\Standard Cap.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -581,7 +547,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=DQIWJHZH
 
-[Document33]
+[Document31]
 DocumentPath=Components\Passive Components\Standard LED.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -598,7 +564,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=IVIUTJEW
 
-[Document34]
+[Document32]
 DocumentPath=Components\Passive Components\CAP_SMD_CAN.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -615,7 +581,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=MPRJBCLL
 
-[Document35]
+[Document33]
 DocumentPath=Components\Passive Components\CAP_SMD_CAN.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -632,7 +598,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=NGLTGAHM
 
-[Document36]
+[Document34]
 DocumentPath=Components\Passive Components\Standard LED.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -649,7 +615,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=OJOTBJNG
 
-[Document37]
+[Document35]
 DocumentPath=Components\ICs\IMU IC Breakouts 2020.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -666,7 +632,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=KKRFNLFT
 
-[Document38]
+[Document36]
 DocumentPath=Components\ICs\IMU IC Breakouts 2020.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -683,7 +649,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=RIXAIIHR
 
-[Document39]
+[Document37]
 DocumentPath=Components\Passive Components\Fuse.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -700,7 +666,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=HPPBIITY
 
-[Document40]
+[Document38]
 DocumentPath=Components\Passive Components\Fuse.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -717,7 +683,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=TRERFTWQ
 
-[Document41]
+[Document39]
 DocumentPath=Components\ICs\Voltage Converters.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -734,7 +700,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=TEWTJDXZ
 
-[Document42]
+[Document40]
 DocumentPath=Components\ICs\Voltage Converters.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -751,7 +717,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=NGAVJIXM
 
-[Document43]
+[Document41]
 DocumentPath=Components\Misc\Sound Producers.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -768,7 +734,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=NVKPNKRM
 
-[Document44]
+[Document42]
 DocumentPath=Components\Misc\Sound Producers.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -785,7 +751,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ISSQXVET
 
-[Document45]
+[Document43]
 DocumentPath=Components\ICs\Amplifiers.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -802,7 +768,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=RZZVDWPD
 
-[Document46]
+[Document44]
 DocumentPath=Components\ICs\Amplifiers.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -819,7 +785,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=GWCLPDBI
 
-[Document47]
+[Document45]
 DocumentPath=Components\Misc\Science_Sensors.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -836,7 +802,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=NVKSTPGX
 
-[Document48]
+[Document46]
 DocumentPath=Components\Misc\Science_Sensors.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -852,6 +818,40 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=JIFNSSCI
+
+[Document47]
+DocumentPath=Components\Misc\LED_RGB.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=OSNSVOZM
+
+[Document48]
+DocumentPath=Components\Misc\LED_RGB.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=JHPEYTEL
 
 [OutputGroup1]
 Name=Netlist Outputs
