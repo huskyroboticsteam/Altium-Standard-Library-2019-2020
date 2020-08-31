@@ -684,6 +684,23 @@ GenerateClassCluster=0
 DocumentUniqueId=TRERFTWQ
 
 [Document39]
+DocumentPath=Components\Passive Components\Fuse_Through_Hole.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=RORWHJDQ
+
+[Document40]
 DocumentPath=Components\ICs\Voltage Converters.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -700,7 +717,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=TEWTJDXZ
 
-[Document40]
+[Document41]
 DocumentPath=Components\ICs\Voltage Converters.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -717,7 +734,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=NGAVJIXM
 
-[Document41]
+[Document42]
 DocumentPath=Components\Misc\Sound Producers.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -734,7 +751,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=NVKPNKRM
 
-[Document42]
+[Document43]
 DocumentPath=Components\Misc\Sound Producers.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -751,7 +768,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ISSQXVET
 
-[Document43]
+[Document44]
 DocumentPath=Components\ICs\Amplifiers.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -768,7 +785,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=RZZVDWPD
 
-[Document44]
+[Document45]
 DocumentPath=Components\ICs\Amplifiers.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -785,7 +802,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=GWCLPDBI
 
-[Document45]
+[Document46]
 DocumentPath=Components\Misc\Science_Sensors.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -802,7 +819,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=NVKSTPGX
 
-[Document46]
+[Document47]
 DocumentPath=Components\Misc\Science_Sensors.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -819,7 +836,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=JIFNSSCI
 
-[Document47]
+[Document48]
 DocumentPath=Components\Misc\LED_RGB.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -836,7 +853,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=OSNSVOZM
 
-[Document48]
+[Document49]
 DocumentPath=Components\Misc\LED_RGB.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -962,7 +979,7 @@ OutputDefault20=0
 [OutputGroup2]
 Name=Simulator Outputs
 Description=
-TargetPrinter=Microsoft Print to PDF
+TargetPrinter=Allen / Suzzallo - B&W
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 
 [OutputGroup3]
